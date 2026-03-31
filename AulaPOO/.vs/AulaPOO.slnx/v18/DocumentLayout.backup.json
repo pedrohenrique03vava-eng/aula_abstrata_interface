@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ALUNO\\Desktop\\projetoPOO\\AulaPOO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{728D4B14-2269-4419-ADFC-DCF577E59D8C}|AulaPOO.csproj|c:\\users\\aluno\\desktop\\projetopoo\\aulapoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{728D4B14-2269-4419-ADFC-DCF577E59D8C}|AulaPOO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73143C37-E599-1920-65E5-504F807656E5}|AulaPOO.csproj|c:\\users\\aluno\\desktop\\projetopoo\\aulapoo\\jogadorbasquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73143C37-E599-1920-65E5-504F807656E5}|AulaPOO.csproj|solutionrelative:jogadorbasquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73143C37-E599-1920-65E5-504F807656E5}|AulaPOO.csproj|c:\\users\\aluno\\desktop\\projetopoo\\aulapoo\\jogadorfutsal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73143C37-E599-1920-65E5-504F807656E5}|AulaPOO.csproj|solutionrelative:jogadorfutsal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73143C37-E599-1920-65E5-504F807656E5}|AulaPOO.csproj|c:\\users\\aluno\\desktop\\projetopoo\\aulapoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73143C37-E599-1920-65E5-504F807656E5}|AulaPOO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73143C37-E599-1920-65E5-504F807656E5}|AulaPOO.csproj|c:\\users\\aluno\\desktop\\projetopoo\\aulapoo\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73143C37-E599-1920-65E5-504F807656E5}|AulaPOO.csproj|solutionrelative:jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "jogadorBasquete.cs",
+              "DocumentMoniker": "C:\\Users\\ALUNO\\Desktop\\projetoPOO\\AulaPOO\\jogadorBasquete.cs",
+              "RelativeDocumentMoniker": "jogadorBasquete.cs",
+              "ToolTip": "C:\\Users\\ALUNO\\Desktop\\projetoPOO\\AulaPOO\\jogadorBasquete.cs*",
+              "RelativeToolTip": "jogadorBasquete.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T16:48:48.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "jogadorFutsal.cs",
+              "DocumentMoniker": "C:\\Users\\ALUNO\\Desktop\\projetoPOO\\AulaPOO\\jogadorFutsal.cs",
+              "RelativeDocumentMoniker": "jogadorFutsal.cs",
+              "ToolTip": "C:\\Users\\ALUNO\\Desktop\\projetoPOO\\AulaPOO\\jogadorFutsal.cs",
+              "RelativeToolTip": "jogadorFutsal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T16:48:37.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "jogador.cs",
+              "DocumentMoniker": "C:\\Users\\ALUNO\\Desktop\\projetoPOO\\AulaPOO\\jogador.cs",
+              "RelativeDocumentMoniker": "jogador.cs",
+              "ToolTip": "C:\\Users\\ALUNO\\Desktop\\projetoPOO\\AulaPOO\\jogador.cs",
+              "RelativeToolTip": "jogador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T16:44:24.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ALUNO\\Desktop\\projetoPOO\\AulaPOO\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\ALUNO\\Desktop\\projetoPOO\\AulaPOO\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-31T15:15:56.557Z",
               "EditorCaption": ""
